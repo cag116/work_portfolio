@@ -1,0 +1,57 @@
+*************************************************************************
+*************************************************************************
+**********************                             **********************
+**********************   ~~ FLASH EDUCATIONAL ~~   **********************
+**********************                             **********************
+*************************************************************************
+*************************************************************************
+
+//------------------------------------------------------------------------------------//
+//------------------------------------------------------------------------------------//
+
+// ---- HUGE ISSUES ---- //
+    >>> I need to clean up the database now to make sure nobody has duplicate entries
+    
+
+
+..... List of bug fixes .....
+
+        +++ Saves lastname in signup page
+        +++ fixes modify-submission issue
+        +++ fixed bug issues
+        
+        
+//------------------------------------------------------------------------------------//
+//------------------------------------------------------------------------------------//
+
+// --- NEXT VERSION --- //
+    
+    >>> validation system in database
+    >>> Switch from NSMutableArrays to NSMutableDictionaries
+    >>> MAYBE ~~ Put update button on the subtopic and topic pages
+        +++ alternative would be to use notifications to let students know when this happens. The reason we would do this is because changes in the larger hierarchy should be infrequent
+    >>> MAYBE ~~ Push notifications that can be toggled
+    >>> Push notifications related to notices
+    >>> SORTING! CRUCIAL
+    >>> Childers' idea
+    >>> Little label to show where the user is in the loading process on login page
+    
+//------------------------------------------------------------------------------------//
+//------------------------------------------------------------------------------------//
+
+// --- 2017.04.04 - Meeting with Tad --- //
+- Merchants are hard to involve
+- Accumulate credit until you do have money
+    + no true debt -> payable only if you generate enough cash
+- Validation idea = thumbs up
+
+- Valdiation models
+    + test generation
+    + students create questions for teacher in the context of a courase (childers)
+
+|| Action Items ||
+- Contact bio 1,2 & biochem & genchem 1,2
+
+|| MVP ||
+- Generate content for every subtopic
+- create sorting feature
