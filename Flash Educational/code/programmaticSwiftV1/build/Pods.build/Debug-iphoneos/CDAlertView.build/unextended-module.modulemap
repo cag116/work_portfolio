@@ -1,0 +1,10 @@
+framework module CDAlertView {
+  umbrella header "CDAlertView-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module CDAlertView.__Swift {
+    exclude header "CDAlertView-Swift.h"
+}
